@@ -13,7 +13,7 @@ https://github.com/KushmiJayakody/IT23155602_ITPM_Assignment.git
 This project aims to assess the accuracy of the Pixelssuite Chat-Translator (Singlish to Sinhala transliteration). The test suite consists of 50 automated negative test cases developed using Playwright. It covers 24 different Singlish input types as specified in the assignment guidelines.
 
 --Prerequisites--
-Before running the tests, ensure you have the following installed on your system:
+Before running the tests, ensure the following installed on system:
 Python 3.11 or 3.12
 Google Chrome browser
 
