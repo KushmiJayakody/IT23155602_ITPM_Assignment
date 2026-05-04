@@ -1,4 +1,5 @@
 Transliteration Accuracy Testing Project - Assignment 1
+
 --Student Details--
 Name: Jayakody J.A.K.K.
 
@@ -7,7 +8,7 @@ Registration Number: IT23155602
 Batch: BSc (Hons) in Information Technology - Year 3 WE 1.1
 
 --Git Link--
-//
+https://github.com/KushmiJayakody/IT23155602_ITPM_Assignment.git
 
 --Project Description--
 This project aims to assess the accuracy of the Pixelssuite Chat-Translator (Singlish to Sinhala transliteration). The test suite consists of 50 automated negative test cases developed using Playwright. It covers 24 different Singlish input types as specified in the assignment guidelines.
