@@ -1,11 +1,10 @@
 Transliteration Accuracy Testing Project - Assignment 1
-
 --Student Details--
 Name: Jayakody J.A.K.K.
 
 Registration Number: IT23155602
 
-Batch: BSc (Hons) in Information Technology - Year3S2 WE 1.1
+Batch: BSc (Hons) in Information Technology - Year 3 WE 1.1
 
 --Git Link--
 https://github.com/KushmiJayakody/IT23155602_ITPM_Assignment.git
